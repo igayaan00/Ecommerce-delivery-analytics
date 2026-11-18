@@ -1,6 +1,6 @@
 # 📦 E-Commerce Logistics & Delivery Performance Analysis
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](ECOMMERCE%20DELIVERY%20DASHBOARD.png)
 
 ## 📌 Project Overview
 An end-to-end data analytics project built to identify operational bottlenecks, shipping delays, and customer satisfaction drivers across **10,999 e-commerce orders** ($2.31M total product value). 
